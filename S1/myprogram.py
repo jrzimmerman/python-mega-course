@@ -1,2 +1,3 @@
-greeting = input("Write a greeting: ")
-print(greeting)
+age = input("Enter your age: ")
+new_age = int(age) + 50
+print(new_age)
